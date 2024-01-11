@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, Welcome to my Github!
 
-<!--
-**Niamorro/Niamorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I put pretty much everything I do here, usually these are my personal projects.
 
-Here are some ideas to get you started:
+![Niamorro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niamorro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niamorro&hide=javascript,html&theme=dark&langs_count=6&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+
+
+### Tools:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Inno Setup](https://img.shields.io/badge/-Inno%20Setup-76A9A4?style=for-the-badge&logo=inno-setup)](ссылка-на-ваш-репозиторий)
+
+
+### IDEs:
+![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+### Contact me:
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
