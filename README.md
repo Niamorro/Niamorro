@@ -3,6 +3,7 @@
 I put pretty much everything I do here, usually these are my personal projects.
 
 ![Niamorro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niamorro&show_icons=true&theme=radical)
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niamorro&hide=javascript,html&theme=dark&langs_count=6&layout=compact)
 
 
