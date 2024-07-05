@@ -7,10 +7,14 @@ I put pretty much everything I do here, usually these are my personal projects.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niamorro&hide=javascript,html&theme=dark&langs_count=6&layout=compact)
 
 
-### Languages:
+### 🚀 Languages and Runtimes:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 🛠 Frameworks and Libraries:
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
 
 ### Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
