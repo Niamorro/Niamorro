@@ -39,14 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niamorro&theme=dark" alt="GitHub Streak">
 </details>
 
-<div align="center">
-
-### 🤝 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niamorro)
-
-</div>
-
 ---
 
 <div align="center">
