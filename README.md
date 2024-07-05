@@ -1,11 +1,18 @@
-# Hi there, Welcome to my Github!
+<h1 align="center">👋 Welcome to Niamorro's GitHub!</h1>
 
-I put pretty much everything I do here, usually these are my personal projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Niamorro&color=blue&style=flat-square&label=Profile+Views" alt="Profile views">
+</p>
 
-![Niamorro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niamorro&show_icons=true&theme=radical)
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niamorro&hide=javascript,html&theme=dark&langs_count=6&layout=compact)
+> I'm passionate about coding and love to share my personal projects here. Feel free to explore and collaborate!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niamorro&show_icons=true&theme=radical" alt="Niamorro's GitHub stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niamorro&hide=javascript,html&theme=dark&langs_count=6&layout=compact" alt="Top Languages">
+</div>
 
 ### 🚀 Languages and Runtimes:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,11 +23,32 @@ I put pretty much everything I do here, usually these are my personal projects.
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
 
-### Tools:
+### 🔧 Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![Inno Setup](https://img.shields.io/badge/-Inno%20Setup-76A9A4?style=for-the-badge&logo=inno-setup)](ссылка-на-ваш-репозиторий)
+[![Inno Setup](https://img.shields.io/badge/-Inno%20Setup-76A9A4?style=for-the-badge&logo=inno-setup)](https://jrsoftware.org/isinfo.php)
 
+### 💻 IDEs:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### IDEs:
-![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niamorro&theme=dark" alt="GitHub Streak">
+</details>
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niamorro)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Happy Coding! 😊</i>
+</div>
