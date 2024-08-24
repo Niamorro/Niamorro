@@ -30,8 +30,3 @@
 
 ### 💻 IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<a href="https://boosty.to/niamorro/donate" target="_blank">
-  <img src="https://boosty.to/favicon.png" alt="Boosty" width="20" height="20" style="vertical-align: middle;">
-  <span style="vertical-align: middle; margin-left: 5px;">Support on Boosty</span>
-</a>
