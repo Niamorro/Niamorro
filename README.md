@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Niamorro's+GitHub!&center=true&width=380&height=45&color=D2B48C">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niamorro&color=D2B48C&style=flat-square&label=Profile+Views" alt="Profile views">
-</div>
-
 ## ✨ About Me
 
 <div align="center">
